@@ -1,5 +1,8 @@
 # dottingpad
 
+## 总体目标：
+学习/练习processing，希望最终能release
+
 ## 初步功能：
 实现一个打碟机
 
